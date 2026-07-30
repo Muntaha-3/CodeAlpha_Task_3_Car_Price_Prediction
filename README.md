@@ -24,7 +24,7 @@ This project predicts car selling prices based on various features such as vehic
 
 ---
 
-## ss How to Run
+##  How to Run
 ```bash
 # Clone the repository
 git clone [https://github.com/Muntaha-3/CodeAlpha_Task_3_Car_Price_Prediction.git](https://github.com/Muntaha-3/CodeAlpha_Task_3_Car_Price_Prediction.git)
